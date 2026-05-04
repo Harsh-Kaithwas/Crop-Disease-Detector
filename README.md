@@ -35,8 +35,3 @@ An intelligent Android application designed to assist farmers and agricultural e
 
 ---
 
-## 💻 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [ https://github.com/Harsh-Kaithwas/Crop-Disease-Detector.git ]
