@@ -39,4 +39,4 @@ An intelligent Android application designed to assist farmers and agricultural e
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Harsh-Kaithwas/Crop-Disease-Detector.git](https://github.com/Harsh-Kaithwas/Crop-Disease-Detector.git)
+   git clone [ https://github.com/Harsh-Kaithwas/Crop-Disease-Detector.git ]
