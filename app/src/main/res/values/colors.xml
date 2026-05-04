@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary theme colors (Farmer Green) -->
+    <color name="colorPrimaryGreen">#388E3C</color>
+    <color name="colorPrimaryDarkGreen">#1B5E20</color>
+    <color name="colorAccentGreen">#4CAF50</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Standard colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom colors -->
+    <color name="white_alpha_70">#B3FFFFFF</color>
+    <color name="light_gray_bg">#F0F4F0</color> <!-- Light green-ish gray background -->
+</resources>

@@ -1,0 +1,87 @@
+{
+  "corn___common_rust": {
+    "name_hi": "मक्का का आम रस्ट (Common Rust)",
+    "cause": "फंगस (Puccinia sorghi)",
+    "treatment": "ज्यादातर मामलों में, इलाज ज़रूरी नहीं है। गंभीर संक्रमण में ही फंगीसाइड का छिड़काव करें।"
+  },
+  "corn___gray_leaf_spot": {
+    "name_hi": "मक्का का ग्रे लीफ स्पॉट (Gray Leaf Spot)",
+    "cause": "फंगस (Cercospora zeae-maydis)",
+    "treatment": "रोग प्रतिरोधी (Resistant) किस्में उगाएं। फसल चक्र अपनाएं। गंभीर होने पर फंगीसाइड का उपयोग करें।"
+  },
+  "corn___healthy": {
+    "name_hi": "स्वस्थ मक्का (Healthy Corn)",
+    "cause": "कोई रोग नहीं",
+    "treatment": "फसल स्वस्थ है। नियमित सिंचाई और पोषण जारी रखें।"
+  },
+  "corn___northern_leaf_blight": {
+    "name_hi": "मक्का का नॉर्दर्न लीफ ब्लाइट",
+    "cause": "फंगस (Exserohilum turcicum)",
+    "treatment": "रोधी किस्में चुनें। फंगीसाइड का प्रयोग करें और खेत से फसल अवशेषों को हटा दें।"
+  },
+  "potato___early_blight": {
+    "name_hi": "आलू का अगेती झुलसा (Early Blight)",
+    "cause": "फंगस (Alternaria solani)",
+    "treatment": "फसल चक्र अपनाएं। Mancozeb या Chlorothalonil का छिड़काव करें।"
+  },
+  "potato___healthy": {
+    "name_hi": "स्वस्थ आलू (Healthy Potato)",
+    "cause": "कोई रोग नहीं",
+    "treatment": "फसल स्वस्थ है। मिट्टी चढ़ाते रहें और संतुलित उर्वरक दें।"
+  },
+  "potato___late_blight": {
+    "name_hi": "आलू का पछेती झुलसा (Late Blight)",
+    "cause": "फंगस (Phytophthora infestans)",
+    "treatment": "यह बहुत खतरनाक है। संक्रमित पौधों को तुरंत नष्ट करें। Metalaxyl या सुरक्षात्मक फंगीसाइड का उपयोग करें।"
+  },
+  "rice___brown_spot": {
+    "name_hi": "चावल का भूरा धब्बा रोग (Brown Spot)",
+    "cause": "फंगस (Cochliobolus miyabeanus)",
+    "treatment": "बीजों को गर्म पानी या फंगीसाइड से उपचारित करें। पोटाश उर्वरक का प्रयोग करें।"
+  },
+  "rice___healthy": {
+    "name_hi": "स्वस्थ चावल (Healthy Rice)",
+    "cause": "कोई रोग नहीं",
+    "treatment": "फसल स्वस्थ है। खेत में पानी का स्तर सही बनाए रखें।"
+  },
+  "rice___leaf_blast": {
+    "name_hi": "चावल का पत्ती झुलसा (Leaf Blast)",
+    "cause": "फंगस (Magnaporthe oryzae)",
+    "treatment": "रोधी किस्में लगाएं। यूरिया का उपयोग कम करें। Tricyclazole जैसे फंगीसाइड का छिड़काव करें।"
+  },
+  "rice___neck_blast": {
+    "name_hi": "चावल का नेक ब्लास्ट (Neck Blast)",
+    "cause": "फंगस (Magnaporthe oryzae)",
+    "treatment": "फसल कटाई से पहले फंगीसाइड का प्रयोग करें। यह रोग गंभीर पैदावार नुकसान करता है।"
+  },
+  "sugarcane_bacterial_blight": {
+    "name_hi": "गन्ने का बैक्टीरियल ब्लाइट",
+    "cause": "बैक्टीरिया (Xanthomonas)",
+    "treatment": "स्वस्थ बीज सामग्री का प्रयोग करें। कॉपर-आधारित स्प्रे का उपयोग करें।"
+  },
+  "sugarcane_healthy": {
+    "name_hi": "स्वस्थ गन्ना (Healthy Sugarcane)",
+    "cause": "कोई रोग नहीं",
+    "treatment": "फसल स्वस्थ है। खरपतवार नियंत्रण और नियमित सिंचाई करें।"
+  },
+  "sugarcane_red_rot": {
+    "name_hi": "गन्ने का लाल सड़न (Red Rot)",
+    "cause": "फंगस (Colletotrichum falcatum)",
+    "treatment": "संक्रमित पौधों को तुरंत हटा दें और जला दें। रोधी किस्में उगाएं। मिट्टी को तांबे के लवण से उपचारित करें।"
+  },
+  "wheat___brown_rust": {
+    "name_hi": "गेहूं का भूरा रस्ट (Brown Rust)",
+    "cause": "फंगस (Puccinia recondita)",
+    "treatment": "रोधी किस्में लगाएं। Propiconazole जैसे फंगीसाइड का छिड़काव करें।"
+  },
+  "wheat___healthy": {
+    "name_hi": "स्वस्थ गेहूं (Healthy Wheat)",
+    "cause": "कोई रोग नहीं",
+    "treatment": "फसल स्वस्थ है। समय पर सिंचाई और पोषण दें।"
+  },
+  "wheat___yellow_rust": {
+    "name_hi": "गेहूं का पीला रस्ट (Yellow Rust)",
+    "cause": "फंगस (Puccinia striiformis)",
+    "treatment": "बीज उपचार करें। Propiconazole या Azoxystrobin का छिड़काव करें।"
+  }
+}
