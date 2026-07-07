@@ -1,4 +1,4 @@
-package com.harsh.cropdiseasedetector;
+package com.***.****;
 
 import android.content.Intent;
 import android.os.Bundle;
