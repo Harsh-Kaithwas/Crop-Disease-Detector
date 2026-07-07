@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.harsh.cropdiseasedetector"
+    namespace = "com.***.*******"
     compileSdk = 36 // Fix: Ab latest Android API 36 se compile ho raha hai
 
     defaultConfig {
-        applicationId = "com.harsh.cropdiseasedetector"
+        applicationId = "com.***.*******"
         minSdk = 25
         targetSdk = 36
         versionCode = 2
