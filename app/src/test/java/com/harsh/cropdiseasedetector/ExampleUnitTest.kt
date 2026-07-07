@@ -1,4 +1,4 @@
-package com.harsh.cropdiseasedetector
+package com.***.*******
 
 import org.junit.Test
 
