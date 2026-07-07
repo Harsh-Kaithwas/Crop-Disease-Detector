@@ -1,4 +1,4 @@
-package com.harsh.cropdiseasedetector;
+package com.***.*******;
 
 import android.Manifest;
 import android.content.Intent; // Ise add kiya
